@@ -1,4 +1,4 @@
-package com.javaproject.exmple.vehicle;
+package com.javaproject.example.vehicle;
 
 public interface SpeedRate
 {
