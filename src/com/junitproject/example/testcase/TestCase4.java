@@ -1,4 +1,4 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -7,7 +7,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 
-import com.javaproject.example.logic.Calculator;
+import com.junitproject.example.mainlogic.Calculator;
 
 public class TestCase4
 {

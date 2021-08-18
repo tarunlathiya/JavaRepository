@@ -1,4 +1,4 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 
 import java.util.Arrays;
@@ -11,9 +11,10 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
-import static org.junit.Assert.assertEquals;
 
-import com.javaproject.example.logic.Calculator;
+import com.junitproject.example.mainlogic.Calculator;
+
+import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
 public class TestCase6

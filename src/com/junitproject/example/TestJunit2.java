@@ -1,4 +1,4 @@
-package com.javaproject.example.junit;
+package com.junitproject.example;
 
 public class TestJunit2
 {

@@ -1,15 +1,15 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import com.junitproject.example.mainlogic.WordExample;
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.After;
 import org.junit.AfterClass;
-
-import com.javaproject.example.logic.WordExample;
 
 public class TestCase3
 {

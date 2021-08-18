@@ -1,4 +1,4 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;

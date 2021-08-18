@@ -1,4 +1,4 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 /*
  * parameterized test case 
  */
@@ -11,9 +11,10 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
-import static org.junit.Assert.assertEquals;
 
-import com.javaproject.example.logic.Calculator;
+import com.junitproject.example.mainlogic.Calculator;
+
+import static org.junit.Assert.assertEquals;
 
 
 @RunWith(Parameterized.class)

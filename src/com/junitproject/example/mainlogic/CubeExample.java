@@ -1,4 +1,4 @@
-package com.javaproject.example.logic;
+package com.junitproject.example.mainlogic;
 
 public class CubeExample
 {

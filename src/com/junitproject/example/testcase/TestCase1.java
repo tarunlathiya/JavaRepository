@@ -1,4 +1,4 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 import static org.junit.Assert.assertEquals;
 
@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.javaproject.example.logic.Calculation;
+import com.junitproject.example.mainlogic.Calculation;
 
 public class TestCase1
 {

@@ -1,10 +1,10 @@
-package com.javaproject.example.testcase;
+package com.junitproject.example.testcase;
 
 import org.junit.BeforeClass;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.javaproject.example.logic.CubeExample;
+import com.junitproject.example.mainlogic.CubeExample;
 
 import org.junit.After;
 import org.junit.AfterClass;
