@@ -1,4 +1,4 @@
-package com.junitproject.example;
+package com.junitproject.example.junitprograms;
 
 import java.util.ArrayList;
 
