@@ -1,4 +1,4 @@
-package com.javaproject.example.math;
+package com.javaproject.math;
 
 public class FinallyExample
 {
