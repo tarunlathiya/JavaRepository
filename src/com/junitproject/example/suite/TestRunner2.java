@@ -1,4 +1,4 @@
-package com.junitproject.example.junitprograms;
+package com.junitproject.example.suite;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
