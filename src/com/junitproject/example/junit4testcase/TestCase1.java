@@ -1,11 +1,7 @@
-package com.junitproject.example.testcase;
+package com.junitproject.example.junit4testcase;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.junitproject.example.mainlogic.Calculation;

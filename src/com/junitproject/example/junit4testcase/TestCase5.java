@@ -1,4 +1,4 @@
-package com.junitproject.example.testcase;
+package com.junitproject.example.junit4testcase;
 /*
  * parameterized test case 
  */

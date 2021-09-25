@@ -1,6 +1,7 @@
-package com.junitproject.example.testcase;
+package com.junitproject.examples.junit5testcases;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assumptions.assumeFalse;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -30,6 +31,8 @@ public class TestCase4
 	@DisplayName("Ensure correct handing with zero")
 	void testMultipyWithZero()
 	{
+//		assumeFalse(System.getProperty("os.name").contains("Ubuntu"));
+		
 		assertEquals(0, cal.multiply(0, 5), "trying to multiply with zero ");
 		assertEquals(0, cal.multiply(10, 0), "trying to multiply with zero");
 	}
